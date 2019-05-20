@@ -2,7 +2,7 @@
 <img src="images/screenshot.png">
 
 ## programming
-HTML, CSS, JS, JQuery, Botstrap 
+HTML, CSS, JS, JQuery, Bootstrap 
 
 ## uses
 
