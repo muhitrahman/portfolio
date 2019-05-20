@@ -1,6 +1,23 @@
 # portfolio
 <img src="images/screenshot.png">
 
-This is my personal portfolio on github that include five folder. HTML, CSS, JS, RESUME and images. 
-1- I have uses latest bootstrap and html syntex to create template and user interface.
+## programming
+HTML, CSS, JS, JQuery, Botstrap 
 
+## uses
+
+I have used latest libraries, bootstrap, cdn, ajax, fontawesome, googlefont, jquery, js, html, css here to create template, styling, functionality and user interface.
+
+```bash
+index.html
+portfolio.css
+script.js
+```
+
+## ask me
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to push back to repository as appropriate.
+
+## License
+numberS info guild (nig)
