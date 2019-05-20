@@ -1,5 +1,5 @@
 # portfolio
-<img src="images/screenshot.png">
+<img src="images/screenshot.png"
 # Desc
-This is my personal portfolio on github.
+This is my personal portfolio on github. >
 
